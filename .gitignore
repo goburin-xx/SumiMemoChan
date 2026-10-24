@@ -1,0 +1,17 @@
+﻿# 個人データ
+memo.txt
+
+# Python生成ファイル
+__pycache__/
+*.py[cod]
+
+# PyInstaller生成ファイル
+build/
+dist/
+*.spec
+
+# ビルド・配布作業用
+_build/
+
+# 一時テストファイル
+test.py
